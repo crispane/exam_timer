@@ -12,4 +12,3 @@
 ![image](https://github.com/crispane/exam_timer/assets/38394116/9932f223-1d8d-4d9d-b8a3-59203b6fda0f)
 ![image](https://github.com/crispane/exam_timer/assets/38394116/f4e898ed-9da2-4514-b08a-1f7f243fdad8)
 
-### _Good Luck!_
