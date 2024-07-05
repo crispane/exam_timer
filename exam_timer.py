@@ -8,7 +8,7 @@ class ExamTimerApp:
 
         self.total_time = 0
         self.question_time = 0
-        self.time_pool = 0
+        self.time_pool = -180
         self.remaining_total_time = 0
         self.remaining_question_time = 0
         self.questions_count = 0
